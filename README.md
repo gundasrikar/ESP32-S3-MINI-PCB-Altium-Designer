@@ -8,21 +8,20 @@
 3. Decoupling Capacitors: 10 µF, 0.1 µF
 4. Reverse Polarity Protection Diode (e.g., 1N5819)
 5. USB Type-C/Type-A Connector
-6. Push Buttons:
-7. RESET and Button
-8. Pull-up Resistors: 10 kΩ (for EN and IO0)
-9. Debounce Capacitors: 100 nF (for buttons)
-10. GPIO Header Pins (2.54mm pitch)
-11. SPI Flash (if external memory is required)
-12. Antenna: PCB Antenna or u.FL Connector
-13. UART-to-USB Converter: CP2102 or FT232RL
-14. Status LEDs (e.g., Red/Green)
-15. Current Limiting Resistors: 330 Ω (for LEDs)
-16. Bypass Capacitors: 10 µF, 0.1 µF (close to VCC pins)
-17. Pull-up Resistors for I2C: 4.7 kΩ
-18. JTAG/SWD Connector or Debug Pads
-19. Ferrite Beads (e.g., 600 Ω @ 100 MHz)
-20.Mounting Holes
+6. Push Buttons: RESET and USER Button
+7. Pull-up Resistors: 10 kΩ (for EN and IO0)
+8. Debounce Capacitors: 100 nF (for buttons)
+9. GPIO Header Pins (2.54mm pitch)
+10. SPI Flash (if external memory is required)
+11. Antenna: PCB Antenna or u.FL Connector
+12. UART-to-USB Converter: CP2102 or FT232RL
+13. Status LEDs (e.g., Red/Green)
+14. Current Limiting Resistors: 330 Ω (for LEDs)
+15. Bypass Capacitors: 10 µF, 0.1 µF (close to VCC pins)
+16. Pull-up Resistors for I2C: 4.7 kΩ
+17. JTAG/SWD Connector or Debug Pads
+18. Ferrite Beads (e.g., 600 Ω @ 100 MHz)
+19.Mounting Holes
 
 
 I am currently working on and optimizing the PCB board design and will provide updates soon.
