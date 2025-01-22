@@ -1,8 +1,23 @@
 # ESP32 S3 MINI Board in Altium Designer
 
+<div style="text-align: justify;">
+  
+The **ESP32-S3 Mini** is a compact IoT module featuring dual-core Xtensa LX7 processors, integrated Wi-Fi 802.11 b/g/n, Bluetooth 5 (LE), and AI acceleration capabilities. Its small size and versatile connectivity make it ideal for smart devices, AI applications, and IoT projects requiring high performance in a compact form factor.
+
+In **Altium Designer**, the ESP32-S3 Mini can be easily integrated by importing its schematic symbol and footprint from libraries like SnapEDA or Ultra Librarian. Designers can quickly incorporate the module into their PCBs, ensuring proper connections for power, GPIOs, and communication interfaces, streamlining development for space-constrained and feature-rich projects.
+
+</div>
+
+# ESP32 S3 Schematic Design
+
 ![image](https://github.com/user-attachments/assets/f2eb5789-6c2f-480f-a1fa-559a9e3916f2)
 
-**Components List for ESP32-S3 Mini Schematic:**
+
+## Components List for ESP32-S3 Mini Schematic:
+- ESP32 Mini-1 Datasheet: [Download Here](https://www.espressif.com/sites/default/files/documentation/esp32-mini-1_datasheet_en.pdf)
+- Electronics Components Distributor: [DigiKey](https://www.digikey.com/?msockid=06cb99d107cf6ca03bd98c8d060f6d3f)
+- Purchase Electronics Components: [LCSC](https://www.lcsc.com/products)
+  
 1. ESP32-S3 Mini Module
 2. Voltage Regulator (e.g., AMS1117 or LM1117)
 3. Decoupling Capacitors: 10 µF, 0.1 µF
