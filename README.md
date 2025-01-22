@@ -1,0 +1,1 @@
+# ESP32-S3-MINI-Board-in-Altium-Designer
