@@ -25,4 +25,4 @@
 20.Mounting Holes
 
 
-
+I am currently working on and optimizing the PCB board design and will provide updates soon.
