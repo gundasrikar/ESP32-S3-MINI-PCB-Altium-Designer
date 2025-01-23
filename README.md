@@ -8,7 +8,7 @@ In **Altium Designer**, the ESP32-S3 Mini can be easily integrated by importing 
 
 </div>
 
-# ESP32 S3 Schematic Design
+# ESP32 S3 MINI Schematic Design
 
 ![image](https://github.com/user-attachments/assets/f2eb5789-6c2f-480f-a1fa-559a9e3916f2)
 
