@@ -39,7 +39,7 @@ In **Altium Designer**, the ESP32-S3 Mini can be easily integrated by importing 
 19.Mounting Holes
 
 
-I am currently working on and optimizing the PCB board design and will provide updates soon.
+**I am currently working on and optimizing the PCB board design and will provide updates soon.**
 
 ![image](https://github.com/user-attachments/assets/1a3366b9-ceaf-4d14-9b8a-31754af36683)
 
