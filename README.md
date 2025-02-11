@@ -44,7 +44,8 @@ In **Altium Designer**, the ESP32-S3 Mini can be easily integrated by importing 
 ![image](https://github.com/user-attachments/assets/1a3366b9-ceaf-4d14-9b8a-31754af36683)
 
 **Second Update:**
-![image](https://github.com/user-attachments/assets/2154f60a-1fa2-4803-a832-7c3b302c12a7)
+![image](https://github.com/user-attachments/assets/7618c874-39cd-448d-bc76-573f7f21bb9b)
+
 
 
 
