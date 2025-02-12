@@ -49,22 +49,25 @@ In **Altium Designer**, the ESP32-S3 Mini can be easily integrated by importing 
 ## Paid special attention to critical areas while designing the ESP32 PCB in Altium.
 
 ### 1. **Power Integrity (PI)**:
-   - Stable voltage supply
-   - Minimize noise interference
-   - Reduce power loss
-   - Maintain signal quality
+   - Stable voltage supply.
+   - Minimize noise interference: Decoupling capacitors close to power pins.
+   - Reduce power loss.
+   - Maintain signal quality.
+   - Use dedicated ground planes to reduce loops.
 
 ### 2. **Signal Integrity**:
-   - Minimize signal distortion
-   - Reduce crosstalk
-   - Ensure proper termination
-   - Maintain signal timing
+   - **Minimize signal distortion:** Route analog signal separately from digital signals.
+   - **Reduce crosstalk and Coupling effects:** Avoid long parallel tracks.
+   - Ensure proper termination.
+   - Maintain signal timing.
+   - Use differential pairs for high-speed signals.
 
 ### 3. **Noise and EMI Reduction**:
    - **Proper grounding:** Ensure a solid ground plane to minimize noise.
    - **Shielding:** Use shielding to protect sensitive circuits from external interference.
    - **Decoupling capacitors:** Place them near power pins to filter out noise.
    - **Trace layout:** Keep signal traces short and away from noisy components.
+   - Reduce impedence mismatches and signal reflections.
 
 ### 4. **Thermal Management**:
    - **Heat sinks:** Use heat sinks to dissipate heat from high-power components.
@@ -85,6 +88,8 @@ In **Altium Designer**, the ESP32-S3 Mini can be easily integrated by importing 
    - **Layer stacking:** Use multiple layers for power, ground, and signal traces to reduce crosstalk and noise.
    - **Differential pairs:** Route differential signal pairs closely together to maintain signal integrity.
    - **Avoid sharp angles:** Use smooth, rounded traces instead of sharp angles to reduce signal reflection and interference.
+   - Place power supply components close to IC chips to reduce inductance.
+   - High speed clocks away from the analog paths to prevent interference.
 
 
 
