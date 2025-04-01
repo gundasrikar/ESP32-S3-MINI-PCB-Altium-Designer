@@ -2,7 +2,7 @@
 
 <div style="text-align: justify;">
   
-The **ESP32-S3 Mini** is a compact IoT module featuring dual-core Xtensa LX7 processors, integrated Wi-Fi 802.11 b/g/n, Bluetooth 5 (LE), and AI acceleration capabilities. Its small size and versatile connectivity make it ideal for smart devices, AI applications, and IoT projects requiring high performance in a compact form factor.
+The **ESP32-S3 Mini** is a compact IoT module featuring dual-core Xtensa LX7 processors, integrated Wi-Fi 802.11 b/g/n, Bluetooth 5 (LE), and AI acceleration capabilities. Its small size and versatile connectivity make it ideal for smart devices, AI applications, and IoT projects requiring high performance in a compact form factor
 
 In **Altium Designer**, the ESP32-S3 Mini can be easily integrated by importing its schematic symbol and footprint from libraries like SnapEDA or Ultra Librarian. Designers can quickly incorporate the module into their PCBs, ensuring proper connections for power, GPIOs, and communication interfaces, streamlining development for space-constrained and feature-rich projects.
 
